@@ -1,6 +1,6 @@
 .main {
   height: 100vh;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .flex {
@@ -9,13 +9,19 @@
   align-items: center;
 }
 
-h1, h2, h3, h4 {
-  font-family: 'Kaushan Script', cursive;
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Kaushan Script", cursive;
   margin-bottom: 0px;
 }
 
 th {
   font-weight: bold;
+}
+td {
+  padding: 0px 40px;
 }
 
 .center {
@@ -35,7 +41,7 @@ th {
 }
 
 .yellow {
-  background-color: #FFD700;
+  background-color: #ffd700;
 }
 
 .border-round {
